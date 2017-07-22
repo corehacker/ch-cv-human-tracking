@@ -17,12 +17,12 @@ Description
 5. Bounding box on the entire person wearing T-shirt is a requirement.              
 6. At the end (which can be decided by just pressing a key), display a              
      graphic representation of how the UTD T-shirt person was moving, i.e.,      
-     the path of the person<92>s movement. This can be done by displaying a      
+     the path of the person's movement. This can be done by displaying a      
      rectangular box (for the captured video space) and drawing lines that       
      would connect the points of the center of the bounding box in different     
      video frames.                                                               
-7. Only one such graphic representation of the UTD T-shirt person<92>s movement  
-     path is needed <96> this path will show the cumulative movement over the    
+7. Only one such graphic representation of the UTD T-shirt person's movement  
+     path is needed & this path will show the cumulative movement over the    
      entire video clip captured.                                                    
                                                                                  
 Usage
